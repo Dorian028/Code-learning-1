@@ -73,6 +73,15 @@ header .profile-image {
   border: 5px solid white;
   transition: all .5s;
 }
+.middle-image{
+  width: 287px;
+  height: 600px;
+  margin-bottom: 150px;
+  margin-top: 50px;
+  border-radius: 20%;
+  border: 5px solid white;
+  transition: all .5s;
+}
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
